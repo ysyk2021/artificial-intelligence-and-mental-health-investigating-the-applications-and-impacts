@@ -1,5 +1,3 @@
-Components of Mental Health Care
-====================================================================
 
 To fully understand the applications and impacts of artificial intelligence (AI) in mental health, it is important to first examine the landscape of mental health care. Mental health care is a complex and multifaceted field that encompasses a range of components, including:
 

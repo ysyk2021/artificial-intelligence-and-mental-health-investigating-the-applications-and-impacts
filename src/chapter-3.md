@@ -1,5 +1,3 @@
-Chapter 3: Mental Health Landscape
-==================================
 
 This chapter provides an overview of the mental health landscape, including global trends in diagnosis and treatment of mental illness, as well as the key components of mental health care.
 

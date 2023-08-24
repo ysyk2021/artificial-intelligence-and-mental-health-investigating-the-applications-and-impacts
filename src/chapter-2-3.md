@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that encompasses a wide range of techniques and applications. In this chapter, we will provide an overview of machine learning techniques, which are commonly used in AI, and their relevance to mental health care.
 

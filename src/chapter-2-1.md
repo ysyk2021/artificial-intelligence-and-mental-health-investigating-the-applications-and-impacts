@@ -1,5 +1,3 @@
-History of Artificial Intelligence
-=====================================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field of research that has its roots in the mid-twentieth century. In this chapter, we will provide an overview of the history of AI, including its origins, major milestones, and current state.
 

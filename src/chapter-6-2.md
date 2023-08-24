@@ -1,5 +1,3 @@
-Legal Framework
-===================================================================================
 
 This chapter will explore the legal framework surrounding the use of AI in mental health care, including issues related to data privacy, informed consent, and liability.
 

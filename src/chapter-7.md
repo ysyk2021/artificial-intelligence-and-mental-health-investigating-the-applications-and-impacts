@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Mental Health
-=========================================
 
 This chapter explores the emerging trends and future prospects for the use of artificial intelligence (AI) in mental health care, including the potential impact on diagnosis, treatment, and prevention of mental illness.
 

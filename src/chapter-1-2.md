@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 Mental illness is a significant and growing public health concern, affecting millions of people worldwide. While traditional approaches to mental health care have led to significant improvements in diagnosis and treatment, there is a need for more innovative and effective solutions.
 

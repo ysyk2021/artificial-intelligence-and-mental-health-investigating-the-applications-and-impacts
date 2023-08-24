@@ -1,5 +1,3 @@
-Benefits of AI in Mental Health
-=======================================================================
 
 Artificial intelligence (AI) has the potential to revolutionize mental health care, offering new tools and technologies for improving diagnosis, treatment, and management of mental illnesses. In this chapter, we will explore the many benefits of AI in mental health.
 

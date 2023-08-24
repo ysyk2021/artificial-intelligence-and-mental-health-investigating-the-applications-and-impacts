@@ -1,5 +1,3 @@
-Chapter 5: AI-Powered Mental Health Solutions
-=============================================
 
 This chapter explores the various ways that artificial intelligence (AI) can be used to provide solutions for diagnosing and treating mental health disorders. We will discuss three key areas of focus: diagnosis and assessment, personalized treatment planning and delivery, and predictive analytics and early intervention.
 

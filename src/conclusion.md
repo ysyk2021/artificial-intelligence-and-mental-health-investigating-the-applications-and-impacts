@@ -1,4 +1,3 @@
-# Conclusion
 
 This book has provided an overview of the use of artificial intelligence (AI) in diagnosing and treating mental illness, highlighting the potential benefits and challenges associated with these technologies. In this concluding chapter, we summarize the key points and implications for the future of AI-powered mental health care.
 

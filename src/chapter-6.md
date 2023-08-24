@@ -1,5 +1,3 @@
-Chapter 6: Ethical and Legal Issues Related to AI in Mental Health
-==================================================================
 
 This chapter explores the ethical and legal issues related to the use of artificial intelligence (AI) in mental health, including key considerations around data privacy, informed consent, and liability.
 

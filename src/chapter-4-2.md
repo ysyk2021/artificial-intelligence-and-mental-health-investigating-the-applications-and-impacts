@@ -1,5 +1,3 @@
-Challenges and Limitations of AI in Mental Health
-=========================================================================================
 
 Artificial Intelligence (AI) is transforming the field of mental health, offering new opportunities for diagnosis, treatment, and support. However, there are also a number of challenges and limitations to using AI in mental health. In this chapter, we will explore some of these challenges and consider how they can be overcome.
 

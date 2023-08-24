@@ -1,5 +1,3 @@
-Diagnosis and Assessment of Mental Health Disorders
-==================================================================================================
 
 Artificial intelligence (AI) has vast potential to revolutionize the diagnosis and assessment of mental health disorders. By analyzing large datasets of patient information, advanced machine learning algorithms can identify patterns and indicators that may be indicative of specific mental health conditions.
 

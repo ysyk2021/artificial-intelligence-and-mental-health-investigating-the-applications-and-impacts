@@ -1,4 +1,3 @@
-# Introduction
 
 Mental health is a critical aspect of overall well-being, yet mental illness remains a significant challenge for individuals, families, and society as a whole. The World Health Organization estimates that one in four people will be affected by mental or neurological disorders at some point in their lives. Artificial intelligence (AI) has emerged as a promising tool to address these challenges by providing intelligent solutions to diagnose and treat mental illness.
 

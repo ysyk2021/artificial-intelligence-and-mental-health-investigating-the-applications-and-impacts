@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 Artificial intelligence (AI) is a broad field that encompasses a wide range of techniques and applications. In this chapter, we will provide an overview of the different types of AI and their relevance to mental health care.
 

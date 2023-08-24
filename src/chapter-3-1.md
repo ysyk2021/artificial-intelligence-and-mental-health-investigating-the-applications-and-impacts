@@ -1,5 +1,3 @@
-Global Trends in Mental Health Diagnosis and Treatment
-==========================================================================================
 
 Mental illnesses are a global health concern, affecting people of all ages, genders, and socioeconomic backgrounds. The World Health Organization (WHO) estimates that approximately one in four people worldwide will experience a mental illness at some point in their lives. As such, it is important to examine the global trends in mental health diagnosis and treatment to better understand the applications and impacts of artificial intelligence (AI) in this field.
 

@@ -1,5 +1,3 @@
-Personalized Treatment Planning and Delivery
-===========================================================================================
 
 One of the most promising applications of artificial intelligence (AI) in mental health care lies in its ability to enable personalized treatment planning and delivery. By analyzing large volumes of patient data, AI algorithms can identify patterns and insights that enable mental health professionals to develop targeted treatment plans that are tailored to a patient's individual needs.
 

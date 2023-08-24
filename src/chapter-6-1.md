@@ -1,5 +1,3 @@
-Ethical Considerations
-==========================================================================================
 
 This chapter will explore the complex ethical considerations related to the use of AI in mental health, including issues of privacy, bias, and the potential replacement of human interaction with technology.
 

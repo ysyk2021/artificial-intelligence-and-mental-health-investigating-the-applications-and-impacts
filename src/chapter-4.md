@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Mental Health
-======================================
 
 This chapter explores the role of artificial intelligence (AI) in mental health, including the potential benefits and challenges associated with the use of these technologies.
 

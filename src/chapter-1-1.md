@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Mental Health
-==============================================================================
 
 Artificial intelligence (AI) refers to the development of computer systems that can perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and natural language processing. In recent years, the use of AI has emerged as a promising new approach for diagnosing and treating mental illness, a significant and growing public health concern.
 
