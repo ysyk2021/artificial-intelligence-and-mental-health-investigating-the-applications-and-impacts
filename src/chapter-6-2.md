@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal framework surrounding the applications and impacts of intelligent technologies in diagnosing and treating mental illness. As artificial intelligence (AI) increasingly becomes integrated into mental health care, it is essential to consider the legal and ethical implications to ensure the responsible and compliant use of these technologies.
 

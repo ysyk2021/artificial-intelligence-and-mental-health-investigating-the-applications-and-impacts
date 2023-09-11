@@ -1,5 +1,4 @@
-Chapter: Diagnosis and Assessment of Mental Health Disorders
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the applications of artificial intelligence (AI) in diagnosing and assessing mental health disorders. AI technologies have the potential to enhance the accuracy, efficiency, and objectivity of the diagnostic process, ultimately improving treatment outcomes for individuals with mental illnesses.
 

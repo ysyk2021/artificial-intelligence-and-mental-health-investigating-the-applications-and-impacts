@@ -1,5 +1,4 @@
-Chapter: Challenges and Limitations of AI in Mental Health
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine the challenges and limitations associated with the applications of artificial intelligence (AI) in diagnosing and treating mental illness. While AI shows great promise in revolutionizing mental health care, it is crucial to acknowledge and address the obstacles that hinder its widespread adoption and effectiveness.
 

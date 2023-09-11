@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations surrounding the applications and impacts of intelligent technologies in diagnosing and treating mental illness. As artificial intelligence (AI) continues to play a significant role in mental health care, it is essential to address the ethical challenges and ensure that these technologies are used responsibly and in the best interests of patients.
 

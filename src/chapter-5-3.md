@@ -1,5 +1,4 @@
-Chapter: Predictive Analytics and Early Intervention
-====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the applications of predictive analytics in mental health and its potential for early intervention. Predictive analytics, a branch of artificial intelligence (AI), involves using data analysis techniques to make predictions about future outcomes. Leveraging this technology can assist in identifying individuals at risk of mental illness and enable proactive interventions to improve outcomes.
 

@@ -1,5 +1,4 @@
-Chapter: Components of Mental Health Care
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various components that make up an effective mental health care system. From early intervention to ongoing treatment and support, each component plays a vital role in addressing the diverse needs of individuals with mental illnesses. We will also discuss how artificial intelligence (AI) technologies can enhance these components, leading to better outcomes for patients.
 

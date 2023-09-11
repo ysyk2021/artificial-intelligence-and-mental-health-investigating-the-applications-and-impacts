@@ -1,5 +1,4 @@
-Chapter: Types of Artificial Intelligence
-=========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the different types of artificial intelligence (AI) and how they are relevant to diagnosing and treating mental illness. AI encompasses various techniques and approaches, each with its unique characteristics and applications in the field of mental health.
 
